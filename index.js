@@ -1,5 +1,5 @@
 function mooncakeSays(message) {
-  let mooncake = '(O.o)';
+  let mooncake = '(UwU)';
 
   if ( !message ) mooncake;
 
